@@ -1,0 +1,19 @@
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Logs (aunque en tu caso están fuera, por seguridad)
+*.log
+
+# Configuración de editores
+.vscode/
+*.swp
+*.swo
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales (por si acaso)
+venv/
+env/
